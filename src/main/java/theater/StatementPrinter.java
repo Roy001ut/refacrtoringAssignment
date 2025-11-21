@@ -36,6 +36,7 @@ public class StatementPrinter {
     }
 
     private int getTotalAmount() {
+
         int totalAmount = 0;
         for (Performance p : invoice.getPerformances()) {
             totalAmount += getThisAmount(p, getPlay(p));
