@@ -1,4 +1,5 @@
-fa2564e (HEAD -> main) Task 2.1
+c586e0b (HEAD -> main) Task 2.2
+fa2564e Task 2.1
 089feef Task 1.2
 225abff (origin/main, origin/HEAD) Finish checkstyle.
 cb9b8d3 Initial commit
